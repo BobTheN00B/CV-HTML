@@ -1,0 +1,38 @@
+*{
+    padding:0px 5px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: middle;
+}
+h1{
+    text-align: center;
+    background-color: rgb(69, 112, 167)
+}
+.formation table{
+    width: 30%;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 0px;
+}
+.exp{
+    line-height:5px;
+}
+address{
+    margin-left:105px;
+}
+h4{
+    margin-left:30px;
+}
+.contact{
+    line-height:0px;
+}
+.informations{
+    width: 50vw;
+    float: left;
+    height: 43vh;
+}
+.contenu{
+    width:15vw;
+    float: left;
+    height: 44vh;
+    background-color: rgb(209, 209, 209);
+}
